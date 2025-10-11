@@ -35,7 +35,7 @@ Cada notebook contiene el código, resultados, análisis y conclusiones correspo
 
 ---
 
-## Desafío 3 — Modelos de lenguaje y generación de secuencias.
+## Desafío 3 — Modelos de lenguaje y generación de secuencias
 
 **Objetivo:** Implementar un **modelo de lenguaje con tokenización por caracteres,** basado en redes neuronales recurrentes (RNN, LSTM, GRU).
 
@@ -58,7 +58,7 @@ Cada notebook contiene el código, resultados, análisis y conclusiones correspo
 1. **Replicar y mejorar** un modelo de traducción de inglés a español seq2seq (encoder-decoder) utilizando **PyTorch**.
 2. Entrenamiento extendido con más datos y secuencias más largas.
 3. Estudio del impacto del número de neuronas en las capas recurrentes.
-4. Presentación de **5 ejemplos de traducciones generadas**.
-5. (Opcional) Experimentos con **embeddings preentrenados** (Glove/FastText) y estrategias de generación alternativas (como muestreo aleatorio).
+4. Presentación de **ejemplos de traducciones generadas**.
+5. (Extras) Experimentos con **embeddings preentrenados** (Glove/FastText) y estrategias de generación alternativas (como muestreo aleatorio).
 
 ---
